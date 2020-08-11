@@ -1,0 +1,16 @@
+[
+  {
+    "id": "123",
+    "conditions": {
+      "audience": "all"
+    },
+    "localizedMessages": {
+      "en-US": {
+        "title": "title",
+        "description": "descr",
+        "actionText": "Download",
+        "actionParam": "http://download.com/path"
+      }
+    }
+  }
+]
