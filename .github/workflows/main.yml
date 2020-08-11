@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-node@v2-beta
         with:
           node-version: "12"
-      - name: Install pajv
-        run: npm install -g pajv
+      - name: Install ajv
+        run: npm install -g ajv-cli
       - name: Validate
-        run: pajv validate -s notices.schema.json -d notices.json
+        run: ajv validate -s notices.schema.json -d notices.json
