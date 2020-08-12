@@ -41,12 +41,26 @@
           "$ref": "#/definitions/ClientType",
           "description": "Only show the notice on specific clients. Defaults to 'all'"
         },
+        "desktopVersion": {
+          "description": "What desktop client versions does this notice apply to. \nFormat: semver ranges (https://devhints.io/semver) \nExample: [\">=1.2.3 < ~2.4.x\"]\nExample: [\"<v5.19\", \"v5.20-v5.22\"]",
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
         "displayDate": {
           "description": "When to display the notice.\nExamples:\n\"1/2/2020\" - show on specified date\n\">= 1/2/2020\" - show after specified date\n\"< 3/4/2020\" - show before the specified date\n\"> 1/2/2020 <= 3/4/2020\" - show only between the specified dates",
           "type": "string"
         },
         "instanceType": {
           "$ref": "#/definitions/InstanceType"
+        },
+        "mobileVersion": {
+          "description": "What mobile client versions does this notice apply to. \nFormat: semver ranges (https://devhints.io/semver) \nExample: [\">=1.2.3 < ~2.4.x\"]\nExample: [\"<v5.19\", \"v5.20-v5.22\"]",
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
         },
         "numberOfPosts": {
           "description": "Only show the notice when server has more than specified number of posts",

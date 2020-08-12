@@ -57,6 +57,20 @@ export type Conditions = {
      */
     serverVersion?: string[];
     /** 
+     * What mobile client versions does this notice apply to. 
+     * Format: semver ranges (https://devhints.io/semver) 
+     * Example: [">=1.2.3 < ~2.4.x"]
+     * Example: ["<v5.19", "v5.20-v5.22"]
+     */
+    mobileVersion?: string[];
+    /** 
+     * What desktop client versions does this notice apply to. 
+     * Format: semver ranges (https://devhints.io/semver) 
+     * Example: [">=1.2.3 < ~2.4.x"]
+     * Example: ["<v5.19", "v5.20-v5.22"]
+     */
+    desktopVersion?: string[];
+    /** 
      * Map of mattermost server config paths and their values. Notice will be displayed only if the values match the target server config
      * Example: serverConfig: { "PluginSettings.Enable": true, "GuestAccountsSettings.Enable": false }  
      */
