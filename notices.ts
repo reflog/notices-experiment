@@ -43,10 +43,10 @@ export type Conditions = {
     instanceType?: InstanceType;
     /** When to display the notice.
      * Examples:
-     * "1/2/2020" - show on specified date
-     * ">= 1/2/2020" - show after specified date
-     * "< 3/4/2020" - show before the specified date
-     * "> 1/2/2020 <= 3/4/2020" - show only between the specified dates
+     * "2020-03-01T00:00:00Z" - show on specified date
+     * ">= 2020-03-01T00:00:00Z" - show after specified date
+     * "< 2020-03-01T00:00:00Z" - show before the specified date
+     * "> 2020-03-01T00:00:00Z <= 2020-04-01T00:00:00Z" - show only between the specified dates
      */
     displayDate?: string;
     /** 

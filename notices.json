@@ -3,7 +3,7 @@
     "id": "123",
     "conditions": {
       "audience": "all",
-      "displayDate": "> 5/9/2020",
+      "displayDate": "> 2020-03-01T00:00:00Z",
       "serverConfig": {
         "PluginSettings.Test": true
       },
