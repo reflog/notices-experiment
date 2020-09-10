@@ -5,12 +5,11 @@
       "audience": "all",
       "displayDate": "> 2020-03-01T00:00:00Z",
       "serverConfig": {
-        "PluginSettings.Test": true
       },
-      "numberOfUsers": 2000
+      "numberOfUsers": 1
     },
     "localizedMessages": {
-      "en-US": {
+      "enUS": {
         "title": "title",
         "description": "descr",
         "actionText": "Download",
@@ -25,7 +24,7 @@
       "sku": "e10"
     },
     "localizedMessages": {
-      "en-US": {
+      "enUS": {
         "title": "for sysadmin",
         "description": "your eyes only! [test](https://test.com)",
         "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
