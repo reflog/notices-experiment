@@ -1,12 +1,8 @@
 [
   {
-    "id": "1246",
+    "id": "1247",
     "conditions": {
       "audience": "all",
-      "displayDate": "> 2020-03-01T00:00:00Z",
-      "serverConfig": {
-      },
-      "numberOfUsers": 1
     },
     "localizedMessages": {
       "en": {
