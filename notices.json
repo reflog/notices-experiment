@@ -1,29 +1,28 @@
 [
   {
-    "id": "1263",
+    "id": "1265",
     "conditions": {
-      "audience": "member",
-      "desktopVersion": ["<v4.5.4"]
+      "audience": "member"
     },
     "localizedMessages": {
       "en": {
-        "title": "title",
-        "description": "long description for If you're here, you're likely looking to find random words.",
+        "title": "title :robot:",
+        "description": "long _description_ for If you're here, you're likely *looking* :eye: to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
       }
     }
   },
   {
-    "id": "1264",
+    "id": "1266",
     "conditions": {
-      "audience": "teamadmin",
+      "audience": "sysadmin",
       "sku": "all"
     },
     "localizedMessages": {
       "en": {
-        "title": "for sysadmin",
-        "description": "your eyes only! [test](https://test.com)",
+        "title": "for sysadmin :smile:",
+        "description": "_sample_ your *eyes* only! [test](https://test.com)",
         "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
