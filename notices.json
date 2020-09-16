@@ -3,12 +3,12 @@
     "id": "1261",
     "conditions": {
       "audience": "member",
-     "ClientType": "desktop"
+      "ClientType": "desktop"
     },
     "localizedMessages": {
       "en": {
         "title": "title",
-        "description": "long description If you're here, you're likely looking to find random words.",
+        "description": "long description for If you're here, you're likely looking to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
       }
