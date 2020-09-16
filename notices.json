@@ -1,8 +1,9 @@
 [
   {
-    "id": "1250",
+    "id": "1252",
     "conditions": {
-      "audience": "all"
+      "audience": "sysadmin"
+      "serverVersion": "<dev"
     },
     "localizedMessages": {
       "en": {
