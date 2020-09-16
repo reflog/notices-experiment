@@ -26,6 +26,7 @@
         "actionText": "Learn more",
         "actionParam": "https://docs.mattermost.com/administration/upgrade.html"
       }
+    }
     },
    {
     "id": "1253",
@@ -39,6 +40,7 @@
         "description": "This server version is unsupported. Upgrading immediately to server version 5.19 or later is required for improved security, performance, mobile app compatibility, and an enhanced user experience. Upgrading only takes a few minutes.",
         "actionText": "Learn more",
         "actionParam": "https://docs.mattermost.com/administration/upgrade.html"
+      }
       }
     },
   {
