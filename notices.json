@@ -1,12 +1,26 @@
 [
   {
-    "id": "1249",
+    "id": "1250",
     "conditions": {
       "audience": "all"
     },
     "localizedMessages": {
       "en": {
         "title": "title",
+        "description": "descr",
+        "actionText": "Download",
+        "actionParam": "http://download.com/path"
+      }
+    }
+  },
+  {
+    "id": "1251",
+    "conditions": {
+      "audience": "all"
+    },
+    "localizedMessages": {
+      "en": {
+        "title": "title2",
         "description": "descr",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
