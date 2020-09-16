@@ -3,7 +3,7 @@
     "id": "1261",
     "conditions": {
       "audience": "member",
-      "ClientType": "desktop"
+      "clientType": "desktop"
     },
     "localizedMessages": {
       "en": {
