@@ -1,6 +1,6 @@
 [
   {
-    "id": "1261",
+    "id": "1263",
     "conditions": {
       "audience": "member",
       "desktopVersion": ["<v4.5.4"]
@@ -15,9 +15,9 @@
     }
   },
   {
-    "id": "1262",
+    "id": "1264",
     "conditions": {
-      "audience": "sysadmin",
+      "audience": "teamadmin",
       "sku": "all"
     },
     "localizedMessages": {
