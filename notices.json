@@ -4,7 +4,7 @@
     "conditions": {
       "audience": "member",
       "clientType": "desktop",
-      "desktopVersion": ">=4.5.1 < ~4.5.4"
+      "desktopVersion": "4.5.1"
     },
     "localizedMessages": {
       "en": {
