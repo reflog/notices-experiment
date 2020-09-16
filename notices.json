@@ -14,19 +14,33 @@
     }
   },
   {
-    "id": "1251",
+    "id": "1252",
     "conditions": {
-      "audience": "all"
+      "audience": "sysadmin",
+      "serverVersion": "dev"
     },
     "localizedMessages": {
       "en": {
-        "title": "title2",
-        "description": "descr",
-        "actionText": "Download",
-        "actionParam": "http://download.com/path"
+        "title": "Server upgrade required",
+        "description": "This server version is unsupported. Upgrading immediately to server version 5.19 or later is required for improved security, performance, mobile app compatibility, and an enhanced user experience. Upgrading only takes a few minutes.",
+        "actionText": "Learn more",
+        "actionParam": "https://docs.mattermost.com/administration/upgrade.html"
       }
-    }
-  },
+    },
+   {
+    "id": "1253",
+    "conditions": {
+      "audience": "sysadmin",
+      "serverVersion": "<dev"
+    },
+    "localizedMessages": {
+      "en": {
+        "title": "Server upgrade required",
+        "description": "This server version is unsupported. Upgrading immediately to server version 5.19 or later is required for improved security, performance, mobile app compatibility, and an enhanced user experience. Upgrading only takes a few minutes.",
+        "actionText": "Learn more",
+        "actionParam": "https://docs.mattermost.com/administration/upgrade.html"
+      }
+    },
   {
     "id": "124",
     "conditions": {
