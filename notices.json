@@ -2,7 +2,7 @@
   {
     "id": "1252",
     "conditions": {
-      "audience": "sysadmin"
+      "audience": "sysadmin",
       "serverVersion": "<dev"
     },
     "localizedMessages": {
