@@ -1,20 +1,20 @@
 [
   {
-    "id": "1255",
+    "id": "1257",
     "conditions": {
       "audience": "member"
     },
     "localizedMessages": {
       "en": {
         "title": "title",
-        "description": "really long description If you're here, you're likely looking to find random words. Random Word Generator is the perfect tool to help you do this. While this tool isn't a word creator, it is a word generator that will generate random words for a variety of activities or uses. Even better, it allows you to adjust the parameters of the random words to best fit your needs",
+        "description": "long description If you're here, you're likely looking to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
       }
     }
   },
   {
-    "id": "1256",
+    "id": "1258",
     "conditions": {
       "audience": "sysadmin",
       "sku": "team"
