@@ -1,13 +1,14 @@
 [
 {
-    "id": "1284",
+    "id": "1286",
     "conditions": {
       "audience": "all",
       "clientType": "desktop"
+      "desktopVersion": [">= 4.1.2 <= 4.5.3"]
     },
     "localizedMessages": {
       "en": {
-        "title": "title all desktop only notice :robot:",
+        "title": "title all desktop only notice for <4.5.4 :robot:",
         "description": "long _description_ for If you're here, you're likely *looking* :eye: to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
@@ -15,7 +16,7 @@
     }
   },
   {
-    "id": "1285",
+    "id": "1287",
     "conditions": {
       "audience": "all",
       "clientType": "web"
