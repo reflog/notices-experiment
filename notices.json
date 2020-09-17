@@ -36,7 +36,7 @@
     "id": "1298",
     "conditions": {
       "audience": "all",
-      "sku": "E20"
+      "sku": "e20"
     },
     "localizedMessages": {
       "en": {
@@ -51,7 +51,7 @@
     "id": "1299",
     "conditions": {
       "audience": "all",
-      "sku": "E0"
+      "sku": "e0"
     },
     "localizedMessages": {
       "en": {
