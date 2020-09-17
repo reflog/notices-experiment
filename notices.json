@@ -2,7 +2,7 @@
   {
     "id": "1267",
     "conditions": {
-      "audience": "member",
+      "audience": "member"
     },
     "localizedMessages": {
       "en": {
@@ -16,8 +16,7 @@
   {
     "id": "1268",
     "conditions": {
-      "audience": "sysadmin",
-       "repeatable": "true"
+      "audience": "sysadmin"
     },
     "localizedMessages": {
       "en": {
