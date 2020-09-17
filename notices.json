@@ -1,33 +1,4 @@
 [
-{
-    "id": "1276",
-    "conditions": {
-      "audience": "member",
-    },
-    "localizedMessages": {
-      "en": {
-        "title": "title :robot:",
-        "description": "long _description_ for If you're here, you're likely *looking* :eye: to find random words.",
-        "actionText": "Download",
-        "actionParam": "http://download.com/path"
-      }
-    }
-  },
-  {
-    "id": "1277",
-    "conditions": {
-      "audience": "sysadmin",
-    },
-    "localizedMessages": {
-      "en": {
-        "title": "for sysadmin :smile:",
-        "description": "_sample_ your *eyes* only! [test](https://test.com)",
-        "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
-        "actionText": "Download",
-        "actionParam": "http://download.com/path"
-      }
-    }
-  }
   {
     "id": "1275",
     "repeatable": true,
