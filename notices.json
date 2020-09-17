@@ -33,13 +33,14 @@
     }
   },
   {
-    "id": "1296",
+    "id": "1298",
     "conditions": {
-      "audience": "all"
+      "audience": "all",
+      "sku": "E20"
     },
     "localizedMessages": {
       "en": {
-        "title": "title all sysadmin should be off :robot:",
+        "title": "sku e20 :robot:",
         "description": "long _description_ for If you're here, you're likely *looking* :eye: to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
@@ -47,13 +48,14 @@
     }
   },
   {
-    "id": "1297",
+    "id": "1299",
     "conditions": {
-      "audience": "sysadmin"
+      "audience": "all",
+      "sku": "E0"
     },
     "localizedMessages": {
       "en": {
-        "title": "all sysadmins :smile:",
+        "title": "all e0 :smile:",
         "description": "_sample_ your *eyes* only! [test](https://test.com)",
         "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
         "actionText": "Download",
