@@ -3,7 +3,7 @@
     "id": "1280",
     "conditions": {
       "audience": "member",
-      "serverVersion": ["5.90.2-5.90.4"]
+      "serverVersion": [">= 5.90.2 <= 5.90.4"]
     },
     "localizedMessages": {
       "en": {
