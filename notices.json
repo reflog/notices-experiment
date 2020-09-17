@@ -33,7 +33,7 @@
     }
   },
   {
-    "id": "1305",
+    "id": "1306",
     "conditions": {
       "audience": "teamadmin",
       "sku": "team"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "id": "1304",
+    "id": "1307",
     "conditions": {
       "audience": "teamadmin",
       "sku": "team"
