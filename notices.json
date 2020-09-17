@@ -35,7 +35,7 @@
   {
     "id": "1300",
     "conditions": {
-      "audience": "sysadmin",
+      "audience": "member",
       "sku": "team"
     },
     "localizedMessages": {
@@ -50,13 +50,13 @@
   {
     "id": "1301",
     "conditions": {
-      "audience": "all",
+      "audience": "teamadmin",
       "sku": "team"
     },
     "localizedMessages": {
       "en": {
-        "title": "all sku-team with an emoji :smile: and some longer formated text, like *bold* and _italicized_ , maybe a #help too and one mention @sysadmin test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing ",
-        "description": "_sample_ your *eyes* only! [test](https://test.com)",
+        "title": "all sku-team ",
+        "description": "_sample_ your *eyes* only! [test](https://test.com) with an emoji :smile: and some longer formated text, like *bold* and _italicized_ , maybe a #help too and one mention @sysadmin test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing test testing ",
         "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
