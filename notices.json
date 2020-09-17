@@ -2,7 +2,7 @@
   {
     "id": "1267",
     "conditions": {
-      "audience": "member"
+      "audience": "member",
        "repeatable": "true"
     },
     "localizedMessages": {
