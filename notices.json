@@ -3,11 +3,12 @@
     "id": "1276",
     "repeatable": true,
     "conditions": {
-      "audience": "member"
+      "audience": "member",
+      "serverVersion": ">=5.90.3 < ~5.90.4"
     },
     "localizedMessages": {
       "en": {
-        "title": "title :robot:",
+        "title": "title 1 :robot:",
         "description": "long _description_ for If you're here, you're likely *looking* :eye: to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
