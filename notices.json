@@ -1,6 +1,7 @@
 [
   {
-    "id": "1270",
+    "id": "1271",
+    "repeatable": true,
     "conditions": {
       "audience": "member"
     },
