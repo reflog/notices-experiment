@@ -1,10 +1,9 @@
 [
 {
     "id": "1276",
-    "serverVersion": "5.90.3",
-    "repeatable": true,
     "conditions": {
       "audience": "member",
+      "serverVersion": "5.90.3"
     },
     "localizedMessages": {
       "en": {
@@ -17,7 +16,6 @@
   },
   {
     "id": "1277",
-    "repeatable": true,
     "conditions": {
       "audience": "sysadmin"
     },
