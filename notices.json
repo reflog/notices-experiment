@@ -3,7 +3,6 @@
     "id": "1267",
     "conditions": {
       "audience": "member",
-       "repeatable": "true"
     },
     "localizedMessages": {
       "en": {
