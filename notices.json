@@ -33,13 +33,13 @@
     }
   },
   {
-    "id": "1294",
+    "id": "1296",
     "conditions": {
       "audience": "all"
     },
     "localizedMessages": {
       "en": {
-        "title": "title all member off :robot:",
+        "title": "title all sysadmin should be off :robot:",
         "description": "long _description_ for If you're here, you're likely *looking* :eye: to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
@@ -47,13 +47,13 @@
     }
   },
   {
-    "id": "1295",
+    "id": "1297",
     "conditions": {
-      "audience": "member"
+      "audience": "sysadmin"
     },
     "localizedMessages": {
       "en": {
-        "title": "all members :smile:",
+        "title": "all sysadmins :smile:",
         "description": "_sample_ your *eyes* only! [test](https://test.com)",
         "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
         "actionText": "Download",
