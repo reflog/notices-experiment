@@ -49,7 +49,7 @@
   {
     "id": "1295",
     "conditions": {
-      "audience": "members"
+      "audience": "member"
     },
     "localizedMessages": {
       "en": {
