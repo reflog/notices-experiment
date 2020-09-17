@@ -1,8 +1,9 @@
 [
   {
-    "id": "1265",
+    "id": "1267",
     "conditions": {
       "audience": "member"
+       "repeatable": "true"
     },
     "localizedMessages": {
       "en": {
@@ -14,10 +15,10 @@
     }
   },
   {
-    "id": "1266",
+    "id": "1268",
     "conditions": {
       "audience": "sysadmin",
-      "sku": "all"
+       "repeatable": "true"
     },
     "localizedMessages": {
       "en": {
