@@ -2,12 +2,12 @@
 {
     "id": "1281",
     "conditions": {
-      "audience": "member",
-      "serverVersion": [">= 5.90.2 <= 5.90.4"]
+      "audience": "all",
+      "serverVersion": [">= 6.90.2 <= 6.90.4"]
     },
     "localizedMessages": {
       "en": {
-        "title": "title 2 :robot:",
+        "title": "title 6.90 :robot:",
         "description": "long _description_ for If you're here, you're likely *looking* :eye: to find random words.",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
@@ -22,7 +22,7 @@
     "localizedMessages": {
       "en": {
         "title": "for sysadmin 2 :smile:",
-        "description": "_sample_ your *eyes* only! [test](https://test.com)",
+        "description": "_sample_ your *eyes* :eye: only! [test](https://test.com)",
         "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
