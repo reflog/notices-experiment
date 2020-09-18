@@ -16,11 +16,11 @@
     }
   },
   {
-    "id": "1360",
+    "id": "1361",
     "conditions": {
       "audience": "all",
       "clientType": "all",
-      "displayDate": "2020-09-18T00:00:00Z"
+      "displayDate": "=2020-09-18T00:00:00Z"
     },
     "localizedMessages": {
       "en": {
