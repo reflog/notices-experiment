@@ -19,7 +19,7 @@
     "id": "1351",
     "conditions": {
       "audience": "all",
-      "clientType": "desktop",
+      "clientType": "all",
       "displayDate": "2020-09-18T00:00:00Z"
     },
     "localizedMessages": {
